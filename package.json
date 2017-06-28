@@ -1,5 +1,5 @@
 {
-  "name": "@cowtech/create-node-app",
+  "name": "@cowtech/create-node-application",
   "version": "0.0.3",
   "description": "CowTech Template: Node.js application",
   "main": "index.js",
@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/cowtech/create-node-app"
+    "url": "https://github.com/cowtech/create-node-application"
   },
   "keywords": [
     "cowtech",
@@ -24,7 +24,7 @@
   "author": "Shogun <shogun@cowtech.it>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/cowtech/create-node-app/issues"
+    "url": "https://github.com/cowtech/create-node-application/issues"
   },
   "engines": {
     "node": ">=8.0.0"

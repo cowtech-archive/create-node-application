@@ -1,4 +1,4 @@
-# @cowtech/create-node-app
+# @cowtech/create-node-application
 
 Boilerplate for a Node.js application.
 
