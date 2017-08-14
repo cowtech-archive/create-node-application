@@ -1,6 +1,6 @@
 {
   "name": "@cowtech/create-node-application",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "CowTech Template: Node.js application",
   "main": "index.js",
   "files": [
