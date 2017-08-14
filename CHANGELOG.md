@@ -1,3 +1,7 @@
+### 2017-08-14 / 0.0.4
+
+* Updated dependencies.
+
 ### 2017-08-14 / 0.0.3
 
 * Updated dependencies.
