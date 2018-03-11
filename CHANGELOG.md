@@ -1,3 +1,7 @@
+### 2018-03-11 / 0.1.5
+
+* Updated dependencies.
+
 ### 2017-08-14 / 0.1.4
 
 * Minor development fix.
