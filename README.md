@@ -1,5 +1,7 @@
 # @cowtech/create-node-application
 
+## END OF DEVELOPMENT NOTICE - This package has been discontinued
+
 Boilerplate for a Node.js application.
 
 ## Copyright
